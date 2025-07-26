@@ -1,0 +1,8 @@
+pandas
+bs4
+lxml
+requests
+filelock
+selenium
+webdriver-manager
+tqdm
